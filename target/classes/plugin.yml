@@ -1,0 +1,6 @@
+name: PlayerBlock
+version: 1.0
+main: me.playerblock.PlayerBlock
+author: jacvver
+commands:
+  blocos:
